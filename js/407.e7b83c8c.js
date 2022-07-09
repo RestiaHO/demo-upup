@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktoutiao_m"]=self["webpackChunktoutiao_m"]||[]).push([[407],{6407:function(t,e,n){n.r(e),n.d(e,{default:function(){return i}});var o=function(){var t=this,e=t.$createElement,n=t._self._c||e;return n("div",{staticClass:"video-container"},[t._v("视频")])},u=[],a={name:"VideoIndex",components:{},props:{},data(){return{}},computed:{},watch:{},created(){},mounted(){},methods:{}},c=a,r=n(1001),s=(0,r.Z)(c,o,u,!1,null,"119320c6",null),i=s.exports}}]);
+//# sourceMappingURL=407.e7b83c8c.js.map
